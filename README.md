@@ -96,7 +96,8 @@ Total_Quantity = SUM(Mobile_Sales_Data[Units Sold])
 ***
 
 ## 📸 Screenshots  
-1. Dashboard 1 : 
+1. Dashboard 1 :
+<img src="https://github.com/akash250298/Mobile_Sales_Analysis_Dashboard_Powerbi/blob/main/Dashboard_Screenshots/Dashboard%201.png" class="img-fluid">
 
 2. MTD Report Dashboard 2 :
 <img src="https://github.com/akash250298/Mobile_Sales_Analysis_Dashboard_Powerbi/blob/main/Dashboard_Screenshots/MTD%20report.png" class="img-fluid">
